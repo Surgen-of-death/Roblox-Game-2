@@ -1,0 +1,7 @@
+# Build output and Studio lock/backup files
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.lock
+sourcemap.json
